@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YESMIN AI</string>
+    <string name="accessibility_description">YESMIN uses accessibility only when you enable it, to perform user-requested screen gestures.</string>
+</resources>
